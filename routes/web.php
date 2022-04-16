@@ -28,4 +28,4 @@ Route::get('/bookdetails', function () { return view('books.Bookdetailpage');//i
 Route::get('/listbygenre', function () { return view('genres.List_by_genre');//it show main.blade.php 
 });
 
-Route::get('/projects/{id}', [ProjectController::class , 'show']);
+// Route::get('/projects/{id}', [ProjectController::class , 'show']);
