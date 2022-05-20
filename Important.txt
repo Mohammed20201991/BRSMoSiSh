@@ -1,0 +1,4 @@
+- Please note after libraran or user login  (auth) sometimes it redirected to profile page (http://127.0.0.1:8000/profile) please modfiy it to (http://127.0.0.1:8000/librarian/book ) and you will see the dashboard
+or if you login with reader (http://127.0.0.1:8000/reader/my-rentals) it happen when I do test on my second pc but for other it works 
+- important to notice in views/book/add-book.blade.php and edit-book.blade.php
+- I am using composer(from official website ) and installed php vertion inside xamp  so I dont wxcute init batch file 
