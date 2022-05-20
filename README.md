@@ -1,12 +1,20 @@
 How to start 
+
 composer install
+
 npm install
+
 npm run prod
+
 php artisan migrate:fresh
+
 php artisan db:seed
+
 php artisan serve
 
+
 database:sqlite
+
 <Alhitawi Mohammed>
 This solution was submitted and prepared by stundent named above for the home assignment of the Web engineering course.
 I declare that this solution is my own work.
